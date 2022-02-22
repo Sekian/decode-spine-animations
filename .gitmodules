@@ -1,0 +1,6 @@
+[submodule "GirlsFrontline-getChibiFrames"]
+	path = GirlsFrontline-getChibiFrames
+	url = https://github.com/Sekian/GirlsFrontline-getChibiFrames
+[submodule "AzurLane-getChibiFrames"]
+	path = AzurLane-getChibiFrames
+	url = https://github.com/Sekian/AzurLane-getChibiFrames
