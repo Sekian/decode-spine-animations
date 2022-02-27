@@ -4,3 +4,6 @@
 [submodule "AzurLane-getChibiFrames"]
 	path = AzurLane-getChibiFrames
 	url = https://github.com/Sekian/AzurLane-getChibiFrames
+[submodule "animated-gif-writer"]
+	path = animated-gif-writer
+	url = https://github.com/dragon66/animated-gif-writer
